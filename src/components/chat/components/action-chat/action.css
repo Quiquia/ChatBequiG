@@ -1,0 +1,22 @@
+.action {
+  block-size: var(--headerSize);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background-color: var(--grey-4);
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.action-message {
+  flex: 1;
+  font: var(--body-16regular);
+  border-radius: 3.125rem;
+  padding: 14px 24px;
+  border: none;
+}
+
+.action-button {
+  border: none;
+  padding: 0;
+}

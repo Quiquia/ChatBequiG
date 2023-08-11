@@ -1,0 +1,198 @@
+{
+  "user": {
+    "name": "Vanessa Quiquia",
+    "phone": "555-566-777",
+    "urlPhoto": "https://static.vecteezy.com/system/resources/previews/009/749/878/non_2x/woman-profile-mascot-illustration-female-avatar-icon-cartoon-girl-head-face-business-user-logo-free-vector.jpg"
+  },
+  "contactos": [
+    {
+      "name": "Juan Perez",
+      "phone": "555-123-4567",
+      "isOnline": true,
+      "urlPhoto": "https://media.tycsports.com/files/2022/06/14/440393/las-20-mejores-fotos-de-perfil-para-tu-cuenta-de-free-fire_w416.webp",
+      "lastMessage": "Buenos días disculpe yá está tu cuenta abierta pero para mañana de 9 A 12 podrás recibir al técnico",
+      "lastDate": "2023-08-04T03:22:33.906Z",
+      "messages": [
+        {
+          "id": "2023-08-03T02:26:01.778Z",
+          "date": "2023-08-03T02:26:01.778Z",
+          "ownerId": "555-123-4567",
+          "isOwnerContact": false,
+          "content": "Me puedes mandar la ubicación de su casa"
+        },
+        {
+          "id": "2023-08-03T02:26:01.776Z",
+          "date": "2023-08-03T02:26:01.776Z",
+          "ownerId": "555-566-777",
+          "isOwnerContact": true,
+          "content": "Claro: https://www.google.com/maps?q=31.9996555,-116.5759683&hl=es-MX&gl=mx&entry=gps&lucs=swa&shorturl=1"
+        },
+        {
+          "id": "2023-08-03T02:26:01.775Z",
+          "date": "2023-08-03T02:26:01.775Z",
+          "ownerId": "555-123-4567",
+          "isOwnerContact": false,
+          "content": "Buenos días disculpe yá está tu cuenta abierta pero para mañana de 9 A 12 podrás recibir al técnico"
+        },
+        {
+          "id": "2023-08-03T02:26:01.774Z",
+          "date": "2023-08-03T02:26:01.774Z",
+          "ownerId": "555-566-777",
+          "isOwnerContact": true,
+          "content": "Claro. Sin problemas"
+        },
+        {
+          "id": "2023-08-03T02:26:01.773Z",
+          "date": "2023-08-03T02:26:01.773Z",
+          "ownerId": "555-123-4567",
+          "isOwnerContact": false,
+          "content": "Ok gracias perdón por la tardanza pero yá quedó"
+        }
+      ]
+    },
+    {
+      "name": "María Gómez",
+      "phone": "555-987-6543",
+      "isOnline": true,
+      "urlPhoto": "https://static.vecteezy.com/system/resources/previews/009/749/748/non_2x/female-avatar-icon-cartoon-woman-profile-mascot-illustration-girl-face-business-user-logo-free-vector.jpg",
+      "lastMessage": "",
+      "lastDate": "2023-08-04T03:22:33.906Z",
+      "messages": [
+        {
+          "id": "2023-08-03T02:26:01.770Z",
+          "date": "2023-08-03T02:26:01.770Z",
+          "ownerId": "555-987-6543",
+          "isOwnerContact": false,
+          "content": "Me puedes mandar la ubicación de su casa"
+        },
+        {
+          "id": "2023-08-03T02:26:01.77Z",
+          "date": "2023-08-03T02:26:01.77Z",
+          "ownerId": "555-566-777",
+          "isOwnerContact": true,
+          "content": "Claro: https://www.google.com/maps?q=31.9996555,-116.5759683&hl=es-MX&gl=mx&entry=gps&lucs=swa&shorturl=1"
+        },
+        {
+          "id": "2023-08-03T02:26:01.677Z",
+          "date": "2023-08-03T02:26:01.677Z",
+          "ownerId": "555-987-6543",
+          "isOwnerContact": false,
+          "content": "Buenos días disculpe yá está tu cuenta abierta pero para mañana de 9 A 12 podrás recibir al técnico"
+        },
+        {
+          "id": "2023-08-03T02:26:01.577Z",
+          "date": "2023-08-03T02:26:01.577Z",
+          "ownerId": "555-566-777",
+          "isOwnerContact": true,
+          "content": "Claro. Sin problemas"
+        },
+        {
+          "id": "2023-08-03T02:26:01.477Z",
+          "date": "2023-08-03T02:26:01.477Z",
+          "ownerId": "555-987-6543",
+          "isOwnerContact": false,
+          "content": "Ok gracias perdón por la tardanza pero yá quedó"
+        }
+      ]
+    },
+    {
+      "name": "Carlos López",
+      "phone": "555-555-5555",
+      "isOnline": false,
+      "urlPhoto": "https://media.tycsports.com/files/2022/06/14/440393/las-20-mejores-fotos-de-perfil-para-tu-cuenta-de-free-fire_w416.webp",
+      "lastMessage": "Buenos días disculpe yá está tu cuenta abierta pero para mañana de 9 A 12 podrás recibir al técnico",
+      "lastDate": "2023-08-03T02:26:01.777Z",
+      "messages": [
+        {
+          "id": "2023-08-03T02:26:01.877Z",
+          "date": "2023-08-03T02:26:01.877Z",
+          "ownerId": "555-555-5555",
+          "isOwnerContact": false,
+          "content": "Me puedes mandar la ubicación de su casa"
+        },
+        {
+          "id": "2023-08-03T02:26:01.977Z",
+          "date": "2023-08-03T02:26:01.977Z",
+          "ownerId": "555-566-777",
+          "isOwnerContact": true,
+          "content": "Claro: https://www.google.com/maps?q=31.9996555,-116.5759683&hl=es-MX&gl=mx&entry=gps&lucs=swa&shorturl=1"
+        },
+        {
+          "id": "2023-08-03T02:26:01.377Z",
+          "date": "2023-08-03T02:26:01.377Z",
+          "ownerId": "555-555-5555",
+          "isOwnerContact": false,
+          "content": "Buenos días disculpe yá está tu cuenta abierta pero para mañana de 9 A 12 podrás recibir al técnico"
+        },
+        {
+          "id": "2023-08-03T02:26:01.277Z",
+          "date": "2023-08-03T02:26:01.277Z",
+          "ownerId": "555-566-777",
+          "isOwnerContact": true,
+          "content": "Claro. Sin problemas"
+        },
+        {
+          "id": "2023-08-03T02:26:01.177Z",
+          "date": "2023-08-03T02:26:01.177Z",
+          "ownerId": "555-555-5555",
+          "isOwnerContact": false,
+          "content": "Ok gracias perdón por la tardanza pero yá quedó"
+        }
+      ]
+    },
+    {
+      "name": "Laura Torres",
+      "phone": "555-222-3334",
+      "isOnline": true,
+      "urlPhoto": "https://img.wattpad.com/d53c71b960cafd8b5106ed4b3d4db4fcdac3306b/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6c72506c71695f304a5275614c513d3d2d31382e313561653966656136303961386662323438353535323831333232372e6a7067?s=fit&w=720&h=720",
+      "lastMessage": "",
+      "lastDate": "2023-08-03T02:26:01.777Z",
+      "messages": []
+    },
+    {
+      "name": "David Gonzales",
+      "phone": "555-222-3335",
+      "isOnline": false,
+      "urlPhoto": "https://media.tycsports.com/files/2022/06/14/440393/las-20-mejores-fotos-de-perfil-para-tu-cuenta-de-free-fire_w416.webp",
+      "lastMessage": "Buenos días disculpe yá está tu cuenta abierta pero para mañana de 9 A 12 podrás recibir al técnico",
+      "lastDate": "2023-08-03T02:26:01.777Z",
+      "messages": []
+    },
+    {
+      "name": "Jose Carhuaz",
+      "phone": "555-222-3336",
+      "isOnline": true,
+      "urlPhoto": "https://media.tycsports.com/files/2022/06/14/440393/las-20-mejores-fotos-de-perfil-para-tu-cuenta-de-free-fire_w416.webp",
+      "lastMessage": "Buenos días disculpe yá está tu cuenta abierta pero para mañana de 9 A 12 podrás recibir al técnico",
+      "lastDate": "2023-08-03T02:26:01.777Z",
+      "messages": []
+    },
+    {
+      "name": "Rebeca Tors",
+      "phone": "555-222-3337",
+      "isOnline": true,
+      "urlPhoto": "https://img.wattpad.com/d53c71b960cafd8b5106ed4b3d4db4fcdac3306b/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6c72506c71695f304a5275614c513d3d2d31382e313561653966656136303961386662323438353535323831333232372e6a7067?s=fit&w=720&h=720",
+      "lastMessage": "Buenos días disculpe yá está tu cuenta abierta pero para mañana de 9 A 12 podrás recibir al técnico",
+      "lastDate": "2023-08-03T02:26:01.777Z",
+      "messages": []
+    },
+    {
+      "name": "Fatima Torpe",
+      "phone": "555-222-3338",
+      "isOnline": false,
+      "urlPhoto": "https://pm1.aminoapps.com/7874/5fea2ec2009a16ccebbb1ee5ac5a216f047abcfar1-1024-1024v2_uhq.jpg",
+      "lastMessage": "Buenos días disculpe yá está tu cuenta abierta pero para mañana de 9 A 12 podrás recibir al técnico",
+      "lastDate": "2023-08-03T02:26:01.777Z",
+      "messages": []
+    },
+    {
+      "name": "Maria Toribio",
+      "phone": "555-222-3339",
+      "isOnline": false,
+      "urlPhoto": "https://i.pinimg.com/736x/a0/25/20/a02520e0693840a9924835b030d36afa.jpg",
+      "lastMessage": "Buenos días disculpe yá está tu cuenta abierta pero para mañana de 9 A 12 podrás recibir al técnico",
+      "lastDate": "2023-08-03T02:26:01.777Z",
+      "messages": []
+    }
+  ]
+}

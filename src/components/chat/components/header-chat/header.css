@@ -1,0 +1,54 @@
+.header {
+  box-sizing: border-box;
+  block-size: var(--headerSize);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: var(--grey-4);
+}
+
+.header-info {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.header-info .icon-arrowLef {
+  border: none;
+  padding: 0;
+  background-color: inherit;
+  cursor: pointer;
+}
+
+.user {
+  font: var(--body-16regular);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.user img {
+  cursor: pointer;
+}
+
+.user p span {
+  display: block;
+}
+
+.user-name {
+  color: var(--black);
+  margin-block-end: 0.25rem;
+}
+
+.user-status {
+  color: var(--grey);
+}
+
+.user img {
+  border-radius: 50%;
+}
+
+.header-actions-search {
+  border: none;
+  background: inherit;
+}

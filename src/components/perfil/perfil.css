@@ -1,0 +1,100 @@
+.perfilUser-container {
+  height: 100vh;
+  position: absolute;
+  width: 100%;
+  box-sizing: border-box;
+  top: 0;
+  left: 0;
+}
+
+.perfilUser-header {
+  block-size: 7.5rem;
+  background: var(--green-2);
+  display: flex;
+  align-items: flex-end;
+}
+
+.perfilUser-header-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  flex: 1;
+  padding-inline-start: 1rem;
+  padding-block-end: 1rem;
+}
+
+.perfilUser-header-icon,
+.perfilUser-iconCamera,
+.perfil-detail-icon {
+  border: none;
+  padding: 0;
+  background: inherit;
+  cursor: pointer;
+}
+
+.perfilUser-header-info {
+  font: var(--body-16regular);
+  color: var(--white);
+}
+
+.perfilUser-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: calc(100vh - 7.5rem);
+  background: var(--grey-4);
+}
+
+.perfilUser-info-container {
+  position: relative;
+  padding-block: 2.5rem;
+}
+
+.perfilUser-img {
+  inline-size: 12.5rem;
+  block-size: 12.5rem;
+  background-color: #7f8080;
+  border-radius: 50%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.perfilUser-img img {
+  inline-size: inherit;
+  block-size: inherit;
+  border-radius: 50%;
+}
+
+.perfilUser-img-change {
+  position: absolute;
+  top: 0;
+  inline-size: 12.5rem;
+  block-size: 12.5rem;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  font: var(--body-16regular);
+  padding: inherit;
+}
+
+.perfilUser-details {
+  background: var(--white);
+  font: var(--body-16regular);
+  width: 100%;
+}
+
+.perfilUser-detail-info {
+  color: var(--green-3);
+  padding: 1rem;
+  margin: 0;
+}
+.perfil-detail-name {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  padding-top: 0;
+}

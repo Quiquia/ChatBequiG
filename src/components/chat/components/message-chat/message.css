@@ -1,0 +1,95 @@
+.message-list {
+  color: green;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  background-image: url(../../../../assets/images/background.jpg);
+  background-size: cover;
+  padding: 1rem;
+  overflow-y: scroll;
+}
+
+.date {
+  background-color: #e5f2fa;
+  color: var(--black);
+  font: var(--body-16regular);
+  border-radius: 0.5rem;
+  padding: 0.65rem;
+  align-self: center;
+}
+
+.message {
+  padding: 0.5rem;
+  font: var(--body-16regular);
+  color: var(--black);
+  gap: 0.5rem;
+}
+
+.message-text {
+  margin: 0;
+}
+
+.message.is-receiver {
+  background-color: var(--white);
+  border-radius: 0 0.5rem 0.5rem 0.5rem;
+  align-self: flex-start;
+  position: relative;
+}
+
+.message.is-sender {
+  background-color: var(--green-1);
+  border-radius: 0.5rem 0 0.5rem 0.5rem;
+  align-self: flex-end;
+  position: relative;
+}
+
+.message.is-sender::after {
+  content: "";
+  position: absolute;
+  box-sizing: border-box;
+  inline-size: 12px;
+  block-size: 12px;
+  border-inline-start: 6px solid var(--green-1);
+  border-inline-end: 6px solid transparent;
+  border-block-end: 6px solid transparent;
+  border-block-start: 6px solid var(--green-1);
+  right: -11px;
+  top: 0;
+}
+
+.message.is-receiver::after {
+  content: "";
+  position: absolute;
+  box-sizing: border-box;
+  inline-size: 12px;
+  block-size: 12px;
+  border-inline-start: 6px solid transparent;
+  border-inline-end: 6px solid var(--white);
+  border-block-end: 6px solid transparent;
+  border-block-start: 6px solid var(--white);
+  left: -11px;
+  top: 0;
+}
+
+.message-details {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.25rem;
+}
+
+.message-date {
+  font: var(--caption-12regular);
+  color: var(--grey);
+}
+
+.message-status {
+  inline-size: 1rem;
+  block-size: 1rem;
+}
+
+.message-status.is-dobleCheck {
+  background-image: url(../../../../assets/images/dobleCheck.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}

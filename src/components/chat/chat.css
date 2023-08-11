@@ -1,0 +1,20 @@
+.chat-container {
+  position: relative;
+}
+
+.chat-inicio {
+}
+
+.chat {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  block-size: 100vh;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.chat > * {
+  /* border: 1px solid red; */
+}

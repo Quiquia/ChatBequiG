@@ -1,0 +1,62 @@
+.messageChatList-container {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  cursor: pointer;
+}
+
+.messageChat-container {
+  border-bottom: 1px solid var(--grey-2);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem;
+}
+
+.messageChat-img {
+  border-radius: 50%;
+  background-size: cover;
+}
+
+.messageChat-body {
+  flex: 1;
+}
+
+.messageChat-list {
+  display: flex;
+  justify-content: space-between;
+  text-transform: capitalize;
+  margin-bottom: 0.5rem;
+}
+
+.messageChat-name {
+  font: var(--body-16regular);
+  color: var(--black);
+}
+
+.messageChat-date {
+  font: var(--caption-12regular);
+  color: var(--grey);
+}
+
+.messageChat-details {
+  display: flex;
+  gap: 0.25rem;
+  align-items: center;
+}
+
+.messageChat-status {
+  inline-size: 2rem;
+  block-size: 1rem;
+}
+.messageChat-details .is-dobleCheck {
+  background-image: url(../../../../assets/images/whatsaapCheck.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.messageChat-text {
+  margin: 0;
+  font: var(--caption-12regular);
+  color: var(--grey);
+}

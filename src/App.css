@@ -1,0 +1,9 @@
+.container-chat {
+  display: grid;
+  grid-template-columns: 27.5rem 1fr;
+  grid-template-rows: 1fr;
+}
+
+.container-chat__mobile {
+  grid-template-columns: 1fr;
+}

@@ -1,0 +1,15 @@
+.headerImg {
+  block-size: var(--headerSize);
+  box-sizing: border-box;
+  background-color: var(--grey-4);
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+  padding-block: 1rem;
+  border-right: 1px solid rgba(44, 58, 66, 0.2);
+}
+
+.headerImg img {
+  border-radius: 50%;
+  cursor: pointer;
+}
